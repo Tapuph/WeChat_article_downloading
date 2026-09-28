@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "note": "微信「最大化」布局下的界面锚点坐标（物理像素）。微信升级导致界面变化时，运行 wx-calibrate.ps1 重新标定。",
+  "layout": "maximized-2560x1440",
+  "chatIcon": [43, 137],
+  "searchBox": [197, 76],
+  "accountCard": [2130, 350],
+  "accountAvatar": [2060, 350],
+  "pageFocus": [2100, 240]
+}
